@@ -32,8 +32,7 @@ columbus.poly <- readShapePoly(system.file("etc/shapes/columbus.shp", package="s
 ## Please run Moran test for the crime values in the dataset (columbus.poly$CRIME), and explain the output (hint:moran.test).
 
 
-## Please run the SAR model using CRIME as the dependent variables and house values (HOVAL) and income (INC) as your explainary varibles, and explain the outputs (hint:spautolm). 
-
+## Please run the SAR model using CRIME as the dependent variables and house values (HOVAL) and income (INC) as your explanatory variables, and explain the outputs (hint:spautolm). 
 
 
 ```
